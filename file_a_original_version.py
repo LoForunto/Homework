@@ -13,3 +13,10 @@ def is_even(number):
     return False
   else:
     return "I didnt learn to count this far"
+def is_sixty_seven(number):
+  if number == 67:
+    return True
+  else:
+    return False
+
+is_sixty_seven(67)
