@@ -55,5 +55,6 @@ Yes, I fear tomorrow I'll be crying
 Yes, I fear tomorrow I'll be crying
 Crying
 [Instrumental Outro: "Tomorrow and Tomorrow"]
+[Fade-out]
 """
 print(epitaph_lyrics)
