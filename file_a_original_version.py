@@ -7,3 +7,4 @@ def is_sixty_seven(number):
     return False
 
 is_sixty_seven(67)
+print(is_sixty_seven(67))
